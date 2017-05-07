@@ -1,0 +1,17 @@
+{
+  "hashtag": "ecolike2017",
+  "website_url": "https://eco-like.herokuapp.com/",
+  "db": {
+    "host": "ds111718.mlab.com",
+    "port": "11718",
+    "name": "eco-likes-2017",
+    "username": "eco",
+    "password": "__IN_LOCAL_CONFIG_JSON__"
+  },
+  "twitter": {
+    "consumer_key": "__IN_LOCAL_CONFIG_JSON__",
+    "consumer_secret": "__IN_LOCAL_CONFIG_JSON__",
+    "access_token_key": "__IN_LOCAL_CONFIG_JSON__",
+    "access_token_secret": "__IN_LOCAL_CONFIG_JSON__"
+  }
+}

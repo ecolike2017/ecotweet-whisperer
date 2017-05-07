@@ -1,0 +1,24 @@
+{
+  "name": "ecotweet-whisperer",
+  "version": "0.0.1",
+  "description": "Listen to Twitter Streaming API for EcoLike tweets",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "eco"
+  ],
+  "author": "Mark Ture <mark.ture@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.26.1",
+    "mongodb": "^2.2.26",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
